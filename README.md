@@ -14,7 +14,8 @@ This project implements a face detection model using convolutional neural networ
 - `test/` - Contains the test dataset used in model evaluation.
 - `models/` - Saved model files and weights.
 - `requirements.txt` - Required Python libraries for the project.
-- `main.sh` - A Bash script to set up the environment and run the model.
+- `app.py` - A python main script to run the model.
+- `model_download.py` - A python script to download trained CNN models from google drive to models/ folder.
 
 ## Setup and Installation
 
