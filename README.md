@@ -33,9 +33,9 @@ Before running the project, make sure you have Python 3.10 installed on your sys
      after the execution of this script the models will be downloaded to the /models directory.
 
      If you want to skip this please use below link to download the models manually to the local directory, due to the size of
-    these models we have used google drive to store them.
+     these models we have used google drive to store them.
 
-    Link : "https://drive.google.com/drive/folders/1awzQfYpkqx8KgRiuHJSYgHgNYAZuo76y?usp=sharing"
+     Link : "https://drive.google.com/drive/folders/1awzQfYpkqx8KgRiuHJSYgHgNYAZuo76y?usp=sharing"
 
 3. **Running the Application**:
    - Run the `app.py` script to start the face detection application.
